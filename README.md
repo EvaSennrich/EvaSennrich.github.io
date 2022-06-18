@@ -4,7 +4,7 @@ Submitted by: **Eva Sennrich**
 
 Estimated time spent: **13** hours spent in total
 
-Deployed Application (optional): [Flixster Deployed Site](ADD_LINK_HERE)
+Deployed Application (optional): [Flixster Deployed Site](https://evasennrich.github.io./) 
 
 ### Application Features
 
